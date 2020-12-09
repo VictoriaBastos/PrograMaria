@@ -1,0 +1,70 @@
+body{
+  background-color:#8a71c9;
+  text-align:center;
+  color:white;
+  font-family:Open Sans, sans-serif;
+  margin:0;
+  margin-bottom:30px;
+}
+
+.principal{
+  max-width:60%;
+  margin:0 auto;
+}
+
+img{
+  width:100%;
+}
+
+h1{
+  font-size:60px;
+}
+
+h2{
+  font-size:40px;
+  color:#2a0074;
+}
+
+h3{
+  font-size:22px;
+  font-style:italic;
+}
+
+.infancia{
+  color:#04ff9f;
+}
+
+.juventude{
+  color:#ff9e9e;
+}
+
+.vida-adulta{
+  color:#ffe36d;
+}
+
+p{
+  line-height:1.5;
+  font-size:20px;
+}
+
+ul{
+  list-style-type:none;
+  line-height:2;
+}
+
+a{
+  text-decoration:none;
+  color:#99ffff
+;
+font-weight:700;
+}
+
+c
+}
+
+button{
+  background-color:#41f341;
+  border-style: 1px solid transparent;
+  padding:2px 20px;
+  border-radius:3px;
+}
